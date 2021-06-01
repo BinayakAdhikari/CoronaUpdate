@@ -1,6 +1,6 @@
 # coronaupdate
 
-Country wise status update of Covid-19
+Country wise infection status of Covid-19
 
 ## Getting Started
 
